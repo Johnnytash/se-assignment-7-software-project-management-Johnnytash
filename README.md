@@ -61,6 +61,7 @@ Maintenance:
    - Compare and contrast at least two software project management methodologies (e.g., Agile, Waterfall, Scrum, Kanban). What are the advantages and disadvantages of each?
 
 Agile vs. Waterfall:
+
 Agile: 
    - An iterative and incremental approach, focusing on delivering working software in short cycles (sprints).
    - Encourages flexibility, adaptation to change, and close collaboration between developers and stakeholders.
